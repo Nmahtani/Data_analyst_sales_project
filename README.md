@@ -1,9 +1,7 @@
-# Data_analyst_sales_project
-Sales Project with SQL and PowerBI
-# Sales Analysis with ETL Process
+# Sales Project with SQL and PowerBI
 
 ## Overview
-This project involves the process of ETL (Extract, Transform, Load) using a dataset in `.csv` format. The data is extracted, cleaned, and transformed using MySQL, and the final result is visualized using Power BI.
+This project involves the process of ETL (Extract, Transform, Load) using a dataset in `.csv` format. The data is extracted, cleaned, and transformed using MySQL, and the final result is visualized using PowerBI.
 
 ## Project Steps
 1. **Extraction**:
